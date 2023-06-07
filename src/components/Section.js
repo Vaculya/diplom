@@ -1,0 +1,1 @@
+export default class{constructor({items:n,renderer:t},i){this._items=n;this._renderer=t;this._contanerSelector=i}renderItem(){Array.isArray(this._items)?this._items.forEach(n=>{this._renderer(n)}):this._renderer(this._items)}addItem(n){this._contanerSelector.append(n)}};

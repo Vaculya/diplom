@@ -1,0 +1,1 @@
+.chips{position:absolute;bottom:50px;right:20px}@media screen and (max-width:500px){.chips{right:0}}.chips .chip{position:relative;width:300px;max-width:300px;padding:10px;border-radius:5px;color:#fff;text-align:center;margin-top:10px}.chips .chip:first-child{margin-top:0}.chips .error{background:#f00}.chips .success{background:#008000}

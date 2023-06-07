@@ -1,0 +1,1 @@
+const n={formSelector:".form",inputSelector:".from__input",submitButtonSelector:".btn",inactiveButtonClass:"btn_disabled",inputErrorClass:"form__input_type_error",errorClass:"form__input-error_visible"},t=document.querySelector(".formOfDate");export{n as formElements,t as formOfDateTrip};

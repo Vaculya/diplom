@@ -1,0 +1,1 @@
+.calendar__wrapper{margin-top: 30px;max-width: 700px;display: -ms-grid;display: grid;grid-template-columns: repeat(auto-fit,222px);gap: 17px;row-gap: 20px;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}@media screen and (max-width: 770px){.calendar__wrapper{max-width: 480px;}}@media screen and (max-width: 560px){.calendar__wrapper{max-width: 460px;}}
